@@ -70,3 +70,41 @@ Data Types in Js:-
                         }
 
                         -in the above example we can see that the left hand side element are the keys and the right hand side element are values so we can tell that about object is a key:value pair structure
+
+                    3.Function:-
+                        -in function , we repeatly do the task in fumction
+                        -function reduce our code complexcity & time space complexcity
+                        -syntax
+                        //function
+                        function my_schedule(){
+                            console.log("we wake up at 6 pm")
+                            console.log("then we go to morning wolk")
+                            console.log("we go to our college for time pass")
+                        }
+                        //function calling
+                        my_schedule()
+
+Operator in js:-
+    -Operator are the key features to do some task or operates some task
+    -ex:-  A+B
+    -In the above example A,B are the operands & + is the operator
+    -There are five types of operator are present in javascript
+
+        1.Arithmatic Operator (+,-,*,/,) , %(modulus) , **(exponnentiation)
+        2.Logical operator:-logical AND(&&) , logical OR(||) , logical(!)
+
+        A       B       (A && B)
+        T       T           T
+        T       F           F
+        F       T           F
+        F       F           F
+
+        A       B       (A || B)
+        T       T           T
+        T       F           T
+        F       T           T
+        F       F           F
+
+        3.Assignment Operator :-(=.+=,-=,*=,%=,**=)
+        4.Unary operator :- increament(++) , decreament(--)
+        5.Comparision Operator :- (== , !== , === etc..)
