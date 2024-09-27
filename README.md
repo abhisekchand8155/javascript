@@ -108,3 +108,45 @@ Operator in js:-
         3.Assignment Operator :-(=.+=,-=,*=,%=,**=)
         4.Unary operator :- increament(++) , decreament(--)
         5.Comparision Operator :- (== , !== , === etc..)
+
+
+Conditional Statement:-
+    -To impliment some condition in the code
+    -there are 3 type of conditional statement 
+        1.If-condition
+            -if condition is true then statement is true
+            -syntax
+            if(condition){
+                statement
+            }
+
+        2.If-else condition
+            -if condition is true then statement is true otherwise false
+            -syntax
+                if(condition){
+                    statement
+                }else{
+                    statement
+                }
+
+        3.If-elif condition
+            -it check the condition multiple time . wheather the condition is true
+            -syntax
+               if(condition){
+                statement
+               }else if (condition){
+                statement
+               }else if (condition){
+                statement
+                }else{
+                    statement
+                }
+
+
+task:-
+ -write a code which can give grades to student according to their scores 
+    1.80-100 (A)
+    2.70-79(B)
+    3.60-59(c)
+    4.50-59(D)
+    5.0-49(fail-go to anganbadi)
