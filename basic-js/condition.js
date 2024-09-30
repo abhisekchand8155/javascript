@@ -19,7 +19,7 @@
 
 //if-elif
 
-let mode="orange"
+/*let mode="orange"
 let color;
 if(mode=="dark"){
     color="black";
@@ -29,6 +29,5 @@ if(mode=="dark"){
     color="pink";
 }else{
     color="can not define";
-}
+}*/
 
-console.log(color)

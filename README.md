@@ -150,3 +150,40 @@ task:-
     3.60-59(c)
     4.50-59(D)
     5.0-49(fail-go to anganbadi)
+
+
+Loops in Javascript:-
+    -Loops are use to execute a pice of code again and again
+    -There are five types of loops in java script
+        1.For Loop :-
+
+            Syntax:-
+            for(initilization ; condition ; incre/decre){
+                statement
+            }
+
+            Example:-(we want to print "web_bucket" 5 times)
+             for(let i=1; i<+5 ; i++){
+                console.log("Web bucket)
+             }
+
+             working/output
+
+        2.While Loop:-
+            Syntax-
+            initilization
+            while(condition){
+                statement
+                inc./dec.
+            }
+
+        3.Do-while loop :-
+
+            syntax:-
+            do{
+                statement
+                inc./dec.
+            }while(condition)
+
+        4.For-of Loop :- it iterate on string & array
+        5.For-in Loop :- it iterate over the objects
