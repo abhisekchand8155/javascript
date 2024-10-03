@@ -37,3 +37,16 @@
 //     size++
 // }
 // console.log("string size =" , size)
+
+//for in
+
+let student={
+    name : "sidharth",
+    age :47,
+    cgpa : 4.5,
+    isPass : false
+}
+ 
+for(let key in student){
+    console.log("key=" key, "value=", student[key] )
+}

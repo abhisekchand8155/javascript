@@ -187,3 +187,32 @@ Loops in Javascript:-
 
         4.For-of Loop :- it iterate on string & array
         5.For-in Loop :- it iterate over the objects
+
+
+String in Js:-
+    -string is a sequence of character used to represent text.
+    -create a string -> let str="web_bocket"
+    -we calculate the string length ->str.length() property
+    -we calculate the string index -> str[0], str[1]....etc
+
+string Literals:-
+    -it is a way have a embedded expression in string
+    -it is denoted by symol ''
+
+String Interpolation
+    -to create string by doing substitution of placeholder
+    -ex -> string $(expression) string text.
+
+
+String escape symbol :-
+    -\n -> new line
+    -\t -> tab inside a string
+
+String Method :-
+    1. str.toUpperCase()
+    2. str.toLowercase()
+    3. str.trim()
+    4. str.slice(start,end)
+    5. str1.concat(str2)
+    6. str.replace(searchVal,newVal)
+    7. str.charAt(idx)
